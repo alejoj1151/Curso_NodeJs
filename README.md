@@ -1,7 +1,7 @@
 # Curso_NodeJs
 My repository with the information of the codes of the course Node.JS TDA
 
-Se recomienda descargar el comprimido "Entrega_2_Alejandro_Jaramillo.zip" y así empezar con el paso 2, caso contrario empezar desde el paso 1 
+IMPORTANTE! Se recomienda descargar el comprimido "Entrega_2_Alejandro_Jaramillo.zip" y así empezar con el paso 2, caso contrario empezar desde el paso 1 
 
 1. Descargar las carpetas y archivos, después crear los archivos en la carpeta raiz de descarga donde guardó las carpetas 
     - cursos.json
